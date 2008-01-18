@@ -1,0 +1,4 @@
+category: Audio OCaml
+requires: ocaml
+sdesc: "OCaml MP3 ID3 tag library"
+ldesc: "OCaml library for parsing MP3 ID3 tags"
